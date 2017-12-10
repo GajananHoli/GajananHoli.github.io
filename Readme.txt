@@ -1,36 +1,38 @@
-== Theme Name: Noon UI Kit - App Landing
+======================================================================
 
-== Copyright (c) 2016 BootstrapThemes.co
+	  Website Template Name: Restaurant
+	  Website Template URI: http://www.templatemonster.com/free-templates/free-website-template-restaurant.php
+	  Author: TemplateMonster.com Team
+	  Author URI: http://www.templatemonster.com/
 
-== http://BootstrapThemes.co
-
-
-Html Created by: http://bootstrapthemes.co
-
-
-
-Psd Created by: https://gumroad.com/l/um-noon-app-landing-ui-kit-freebie
+======================================================================
 
 
-
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
+   +++ Be sure to visit TemplateMonster.com for more website templates +++
 
 
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
+   +++ License +++
+  Restaurant template is 100% FREE!  We kindly ask you to
+   leave the footer links intact. Thank you so much! :)
+
+   
+
+   +++ INSTALLATION & EDITING +++
+
+   - Copy all the files from the 'site' directory to the appropriate (usually 'www' or 'public_html') directory on your hosting. That's it.
+   - This template may be edited with any HTML editor. If you do not know where to get one, you may consider trying NotePad++. It can be downloaded at notepad-plus.sourceforge.net and it's free.
 
 
 
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
+   +++ HOW TO PUT YOUR OWN LOGO+++
 
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+   You need to replace logo.png (it is located in site>images>logo.png) with your own .png file. 
+
+
+   +++ IMPORTANT NOTICE +++
+
+   TemplateMonster doesn't provide support services on free templates - including this one. We only provide support for the products that are being purchased from TemplateMonster.
+   Our free templates are produced according to the latest web standards and we’ve been trying to make the process of working with them as easy as possible, so for people with minimum web develpment 
+   experience it should be easy to work with them. 
+
+   
